@@ -5,7 +5,7 @@ import scpcaLogo from "../../assets/small/Memberships/SCPCA-logo-header85px.png"
 
 function Footer(props) {
     return (
-        <footer className="space-between flex-row px-1 my-2">
+        <footer className="space-between flex-row px-1 my-2 --light">
             <div className="card flex-row footer-img space-between">
                 <a href="https://www.gpca.org/" target="_blank">
                     <img src={gpcaLogo} width="100px" height="80px" viewBox="0 0 24 24">
